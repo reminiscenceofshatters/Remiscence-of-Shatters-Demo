@@ -12,8 +12,6 @@
     <strong>Explore this world of shattered universes where everything seems to change!</strong>
 </p>
 
-
-
 <h2 align="center">
     <a href="">
     Download on itch.io!!
@@ -21,6 +19,12 @@
 </h2>
 
 <h3>
-    <strong>Explore this world of shattered universes where everything seems to change!</strong>
+    Project Team
 </h3>
+
+<p>
+    <strong>Erick Ueda Cavalcante (Music Composer/Sound Designer)</strong>
+    Made the Forest OST
+    Made the Cutscene Music(Currently in the game files, not playing in the actual game)
+</p>
 
