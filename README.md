@@ -9,7 +9,7 @@
 
 
 <p align="center">
-    <strong>Explore this world of shattered universes where everything seems to change!</strong>
+    <h3>Explore this world of shattered universes where everything seems to change!</h3>
 </p>
 
 <h2 align="center">
