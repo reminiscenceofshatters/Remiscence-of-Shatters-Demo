@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <img src="https://i.imgur.com/N5nlKDM.png" alt="Reminiscence of Shatters Banner" width="700">
+    <img src="https://i.imgur.com/N5nlKDM.png" alt="Reminiscence of Shatters Banner" width="300">
 </p>
 
 
@@ -19,4 +19,8 @@
     Download on itch.io!!
     </a>  
 </h2>
+
+<h3>
+    <strong>Explore this world of shattered universes where everything seems to change!</strong>
+</h3>
 
