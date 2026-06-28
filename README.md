@@ -18,9 +18,9 @@
     </a>  
 </h2>
 
-<h3>
+<h2>
     Project Team
-</h3>
+</h2>
 
 <div>
     <strong>Erick Ueda Cavalcante (Music Composer/Sound Designer)</strong>
