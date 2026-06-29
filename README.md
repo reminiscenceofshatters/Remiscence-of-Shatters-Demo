@@ -73,7 +73,7 @@
     Having lost all of her memories, ??? embarks on a journey armed only with her mask and her sword. Her destination is the Kingdom of Maggie, a mysterious realm believed to hold the truth about her past. The adventure begins when a strange portal pulls her into another reality.
 </p>
 
-<div style="border-top: 3px solid #6e7681;"></div>
+---
 
 <p>
     <strong>01</strong>
