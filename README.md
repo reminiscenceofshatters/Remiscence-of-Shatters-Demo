@@ -58,10 +58,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://i.imgur.com/08DsjHR.png" width="250">
+      <img src="https://i.imgur.com/08DsjHR.png" alt="Concept art of the protagonist girl crouching with smoke around her" width="250">
     </td>
     <td align="center">
-      <img src="https://i.imgur.com/m1jZS9L.png" width="250">
+      <img src="https://i.imgur.com/m1jZS9L.png" alt="Sprite of the protagonist in the idle state" width="250">
     </td>
   </tr>
   <tr>
@@ -76,7 +76,7 @@
 ---
 
 <p>
-    <strong>01</strong>
+    <strong>01 (Companion)</strong>
 </p>
 <table align="center">
   <tr>
@@ -85,10 +85,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://i.imgur.com/M2OkN6v.png" width="250">
+      <img src="https://i.imgur.com/M2OkN6v.png" alt="Concept art of the character 01 holding a pickaxe" width="250">
     </td>
     <td align="center">
-      <img src="https://i.imgur.com/CTWrXF5.png" width="250">
+      <img src="https://i.imgur.com/CTWrXF5.png" alt="Sprite of 01 idle state" width="250">
     </td>
   </tr>
   <tr>
@@ -98,6 +98,59 @@
 </table>
 <p>
     01 leads a small group of reality explorers and is the first to meet the protagonist after she is transported to this new reality. As the only human in the group, he takes the young swordswoman to the Kingdom of Maggie, where her journey truly begins.
+</p>
+
+---
+
+<p>
+    <strong>02 (Companion)</strong>
+</p>
+<table align="center">
+  <tr>
+    <th>Concept Art</th>
+    <th>Final Pixel Art</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imgur.com/AKP6ogY.png" alt="Concept art of the character 02 angry" width="250">
+    </td>
+    <td align="center">
+      <img src="https://i.imgur.com/kGlfAnE.png" alt="Sprite of 02 in its idle state" width="250">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><em>Character concept by Kauan</em></td>
+    <td align="center"><em>Pixel Art by Natan</em></td>
+  </tr>
+</table>
+<p>
+    02 is 01's right-hand companion. Unlike 01, he is not human, having originated from another reality. Armed with his claws and heavy armor, 02 is prepared to face the Lords.
+</p>
+
+---
+
+<p>
+    <strong>Lord of the Forest (Antagonist)</strong>
+</p>
+<table align="center">
+  <tr>
+    <th>First Version</th>
+    <th>Final Pixel Art</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imgur.com/BaTOJDH.png" alt="Concept art of the character 02 angry" width="250">
+    </td>
+    <td align="center">
+      <img src="https://i.imgur.com/FuHTpUU.png" alt="Sprite of 02 in its idle state" width="250">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><em>Pixel Art by Natan</em></td>
+  </tr>
+</table>
+<p>
+    The Lord rules over the Forest Realm and shaped its ecosystem. Under his influence, ordinary animals and plants evolved into unique creatures adapted to survive in this world. As the creator of this reality, he stands as its ultimate guardian and greatest threat.
 </p>
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
