@@ -93,7 +93,7 @@
     Having lost all of her memories, ??? embarks on a journey armed only with her mask and her sword. Her destination is the Kingdom of Maggie, a mysterious realm believed to hold the truth about her past. The adventure begins when a strange portal pulls her into another reality.
 </p>
 
----
+<p></p>
 
 <p>
     <strong>01 (Companion)</strong>
@@ -120,7 +120,7 @@
     01 leads a small group of reality explorers and is the first to meet the protagonist after she is transported to this new reality. As the only human in the group, he takes the young swordswoman to the Kingdom of Maggie, where her journey truly begins.
 </p>
 
----
+<p></p>
 
 <p>
     <strong>02 (Companion)</strong>
@@ -147,7 +147,7 @@
     02 is 01's right-hand companion. Unlike 01, he is not human, having originated from another reality. Armed with his claws and heavy armor, 02 is prepared to face the Lords.
 </p>
 
----
+<p></p>
 
 <p>
     <strong>Lord of the Forest (Antagonist)</strong>
@@ -172,6 +172,8 @@
 <p>
     The Lord rules over the Forest Realm and shaped its ecosystem. Under his influence, ordinary animals and plants evolved into unique creatures adapted to survive in this world. As the creator of this reality, he stands as its ultimate guardian and greatest threat.
 </p>
+
+---
 
 <!------------------------------------------------------------------------- PERSONAGENS IMPORTANTES ----------------------------------------------------------------------------->
 <h3>
@@ -200,7 +202,7 @@
     Prince Gael and the mage Margareth are two of the most influential figures in the history of the Kingdom of Maggie. Their research into magic led to the discovery of other realities and the creation of the first interdimensional portal. Venturing into the Original Reality, Armageddon, they uncovered secrets that would forever change the fate of every world.
 </p>
 
----
+<p></p>
 
 <p>
     <strong>HUMANITY</strong>
@@ -225,6 +227,8 @@
 <p>
     Among all the Lords, only one could speak the language of humans. Known as HUMANITY, this Lord ruled over the Human Reality and believed that mankind deserved a chance to shape its own destiny. Defying the other Lords, HUMANITY opposed their plan to erase humanity's memories, and following the events in Armageddon, his fate became unknown. His disappearance remains one of the greatest mysteries surrounding the Lords.
 </p>
+
+---
 
 <!---------------------------------------------------------------------------- INIMIGOS COMUNS ----------------------------------------------------------------------------->
 <h3>
@@ -254,7 +258,7 @@
     Living in the forest, the boar charges at anyone who threatens it.
 </p>
 
----
+<p></p>
 
 <p>
     <strong>Golem</strong>
@@ -276,7 +280,7 @@
     Guarding the heart of the forest, the golem awakens to those who challenge it.
 </p>
 
----
+<p></p>
 
 <p>
     <strong>Spider</strong>
